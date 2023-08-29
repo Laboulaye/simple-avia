@@ -35,13 +35,13 @@ When trying to refer to non-existent Flight or Airport in the url, the program d
 
 <br/>
 
-![image1](src/main/resources/static/4.jpg)
+![image1](demo/src/main/resources/static/4.jpg)
 <br/>
-
-![image2](src/main/resources/static/1.jpg)
 <br/>
-
-![image3](src/main/resources/static/2.jpg)
+![image2](demo/src/main/resources/static/1.jpg)
 <br/>
-
-![image4](src/main/resources/static/3.jpg)
+<br/>
+![image3](demo/src/main/resources/static/2.jpg)
+<br/>
+<br/>
+![image4](demo/src/main/resources/static/3.jpg)
