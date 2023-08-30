@@ -1,4 +1,4 @@
-# Simple avia web service
+# Simple avia REST service
 ### *(Spring Boot + PostgreSQL+ OpenApi)*
 
 The app is a server part of the application (without the UI part) for aggregating information about flights and cargoes. <br/>
